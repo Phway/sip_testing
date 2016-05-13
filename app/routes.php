@@ -21,13 +21,12 @@ Route::get('about', function()
 	return View::make('about');
 });
 
-<<<<<<< HEAD
 Route::get('help', function()
 {
 	return View::make('help');
-=======
+});
+
 Route::get('contact', function()
 {
 	return View::make('contact');
->>>>>>> Phway_Branch2
 });
