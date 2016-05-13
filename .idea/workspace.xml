@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d5e44c7f-9ecc-4db4-8d70-8e4f604a1b6e" name="Default" comment="">
+<<<<<<< HEAD
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/help.php" />
+=======
+>>>>>>> Phway_Branch2
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/routes.php" afterPath="$PROJECT_DIR$/app/routes.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/contact.php" afterPath="$PROJECT_DIR$/app/views/contact.php" />
     </list>
     <ignored path="sip_testing.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -60,17 +63,29 @@
         <entry file="file://$PROJECT_DIR$/app/routes.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
+<<<<<<< HEAD
               <caret line="25" column="27" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
+=======
+              <caret line="25" column="30" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
+>>>>>>> Phway_Branch2
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="help.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/help.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="410">
               <caret line="38" column="75" selection-start-line="38" selection-start-column="75" selection-end-line="38" selection-end-column="75" />
+=======
+      <file leaf-file-name="contact.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/views/contact.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="410">
+              <caret line="38" column="23" selection-start-line="38" selection-start-column="23" selection-end-line="38" selection-end-column="23" />
+>>>>>>> Phway_Branch2
               <folding />
             </state>
           </provider>
@@ -98,6 +113,8 @@
         <option value="$PROJECT_DIR$/app/views/about.php" />
         <option value="$PROJECT_DIR$/app/views/help.php" />
         <option value="$PROJECT_DIR$/app/routes.php" />
+        <option value="$PROJECT_DIR$/app/views/help.php" />
+        <option value="$PROJECT_DIR$/app/views/contact.php" />
       </list>
     </option>
   </component>
@@ -261,13 +278,21 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1463108393931</updated>
+<<<<<<< HEAD
       <workItem from="1463108395204" duration="1107000" />
       <workItem from="1463110920282" duration="48000" />
+=======
+      <workItem from="1463108395204" duration="1891000" />
+>>>>>>> Phway_Branch2
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="1155000" />
+=======
+    <option name="totallyTimeSpent" value="1891000" />
+>>>>>>> Phway_Branch2
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -372,18 +397,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/routes.php">
+    <entry file="file://$PROJECT_DIR$/app/views/help.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="25" column="27" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
+        <state relative-caret-position="345">
+          <caret line="35" column="6" selection-start-line="35" selection-start-column="6" selection-end-line="35" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+<<<<<<< HEAD
+          <caret line="25" column="27" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
+=======
+          <caret line="25" column="30" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
+>>>>>>> Phway_Branch2
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/app/views/help.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="410">
           <caret line="38" column="75" selection-start-line="38" selection-start-column="75" selection-end-line="38" selection-end-column="75" />
+=======
+    <entry file="file://$PROJECT_DIR$/app/views/contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="410">
+          <caret line="38" column="23" selection-start-line="38" selection-start-column="23" selection-end-line="38" selection-end-column="23" />
+>>>>>>> Phway_Branch2
           <folding />
         </state>
       </provider>
