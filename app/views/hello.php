@@ -1,6 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
+	<script type="text/javascript" src="http://download.skype.com/share/skypebuttons/js/skypeCheck.js"></script>
 	<meta charset="UTF-8">
 	<title>Laravel PHP Framework</title>
 	<style>
@@ -42,14 +43,16 @@
 	<div id="SkypeButton_Call_Phway_1">
 		<script type="text/javascript">
 			Skype.ui({
-				"name": "chat",
+				"name": "call",
 				"element": "SkypeButton_Call_Phway_1",
 				"participants": ["chitlinsu90"]
 			});
 		</script>
 	</div>
 	<div>
-		<a href="skype:chitlinsu90?chat">Chat with Skype</a>
+		<!--<script type="text/javascript" src="http://download.skype.com/share/skypebuttons/js/skypeCheck.js"></script>
+		<a href="skype:chitlinsu90?call" onclick="return skypeCheck();"> Call me on Skype </a>-->
+		<a href="skype:chitlinsu90?call"> Call me on Skype </a>
 	</div>
 </body>
 </html>
