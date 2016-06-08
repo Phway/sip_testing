@@ -82,6 +82,7 @@
 		<h1>Another new message in master again!</h1>
 		<h1>OK. This is last message.</h1>
 		<h2>This is from BranchA</h2>
+		<h2>branchA again</h2>
 	</div>
 	<script type="text/javascript" src="https://secure.skypeassets.com/i/scom/js/skype-uri.js"></script>
 	<div id="SkypeButton_Call_Phway_1">
